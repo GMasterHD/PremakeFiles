@@ -1,4 +1,4 @@
-project "SPDLog"
+project "spdlog"
 	language "C++"
 	kind "StaticLib"
 	systemversion "latest"
